@@ -1,0 +1,21 @@
+{
+  "author": {
+    "name": "R. Pramod Nair"
+  },
+  "license": "Apache 2.0",
+  "name": "Shared Preferences",
+  "version": "0.1.0",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/edelworksgithub/SharedPreferences"
+  },
+  "description": "Shared Preferences",
+  "cordova": {
+    "id": "in.edelworks.sharedpreferences"
+  }
+  ,
+  "keywords": [
+    "cordova",
+    "Android Shared Preferences"
+  ]
+}
