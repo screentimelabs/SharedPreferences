@@ -3,7 +3,7 @@
     "name": "R. Pramod Nair"
   },
   "license": "Apache 2.0",
-  "name": "Shared Preferences",
+  "name": "SharedPreferences",
   "version": "0.1.0",
   "repository": {
     "type": "git",
